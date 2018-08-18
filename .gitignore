@@ -2,3 +2,5 @@
 node_modules
 public/bundle.*
 package-lock.json
+app-variables.js
+index.html
